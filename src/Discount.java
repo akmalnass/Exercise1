@@ -23,7 +23,7 @@ public static void main(String[] args) {
 
     int Finalprice  = price - Discountedprice;
 
-    print("Final price is " + Finalprice);
+    print("Price after Discount is " + Finalprice);
 
     myObjScanner.close();
 
